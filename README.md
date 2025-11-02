@@ -1,6 +1,6 @@
-🏥 Disease Prediction & Drug Recommendation System \n
- Major Project (2024)
- Department Computer Science Engineering (CSE)
+🏥 Disease Prediction & Drug Recommendation System 
+  -Major Project (2024)
+ -Department Computer Science Engineering (CSE)
 
 A machine learning system that predicts diseases based on symptoms and recommends medications using patient review data analysis.
 
