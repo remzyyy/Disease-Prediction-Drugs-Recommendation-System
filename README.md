@@ -113,5 +113,5 @@ This system is a prototype for educational purposes. Always consult healthcare p
 ## 📧 Contact
 Student Email: [rameezsid1234@gmail.com](mailto:rameezsid1234@gmail.com)
 
- My_GitHub Repository: (https://github.com/remzyyy) 
+ My_GitHub Repository: [Github_id](https://github.com/remzyyy) 
  My_Project Link: (https://github.com/remzyyy/Drug_Recommendation)
