@@ -55,7 +55,7 @@ Based on research paper: "An Intelligent Disease Prediction and Drug Recommendat
 
 ### Installation
 ```bash
-git clone https://github.com/darkxdd/Disease-Prediction-and-Drug-Recommendation-Prototype.git
+git clone https://github.com/remzyyy/Disease-Prediction-Drugs-Recommendation-System.git
 cd Disease-Prediction-and-Drug-Recommendation-Prototype
 pip install -r requirements.txt
 streamlit run app.py
