@@ -11,8 +11,7 @@ A machine learning system that predicts diseases based on symptoms and recommend
 
 ## 📋 Project Overview
 This major project combines disease prediction and drug recommendation using machine learning and NLP techniques. The system analyzes patient drug reviews to provide data-driven insights for healthcare decisions.
-
-Based on research paper: "An Intelligent Disease Prediction and Drug Recommendation Prototype by Using Multiple Approaches of Machine Learning Algorithms" by Suvendu Kumar Nayak et al.
+"An Intelligent Disease Prediction and Drug Recommendation Prototype by Using Multiple Approaches of Machine Learning Algorithms".
 
 ## 🌟 Features
 - ML-powered disease prediction from symptoms
